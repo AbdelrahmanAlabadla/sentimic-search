@@ -1,0 +1,382 @@
+﻿Category,Sentence
+Password Reset,I can’t remember my password.
+Password Reset,How do I recover my login credentials
+Password Reset,What steps do I follow to reset my password
+Password Reset,I forgot my password and need help
+Password Reset,How can I regain access to my account
+Password Reset,Where do I go to change my password
+Password Reset,I need to reset my account password
+Password Reset,How do I restore my forgotten password
+Password Reset,My password isn’t working
+Password Reset,Help me reset my login password
+Account Deletion,How do I permanently delete my account
+Account Deletion,I want to close my profile forever
+Account Deletion,What is the process to remove my account
+Account Deletion,How can I erase all my account data
+Account Deletion,I want to deactivate my profile
+Account Deletion,How do I disable my account
+Account Deletion,Can I remove my account from the system
+Account Deletion,I want to stop using my account completely
+Account Deletion,How do I shut down my account
+Account Deletion,I need instructions to delete my profile
+Billing,How do I update my credit card
+Billing,I want to change my payment details
+Billing,Where can I edit my billing information
+Billing,How do I add a new payment method
+Billing,My card expired
+Billing,How do I remove an old payment method
+Billing,I want to update my billing address
+Billing,How do I fix a failed payment
+Billing,Why was my payment declined
+Billing,How do I check my billing history
+Order Tracking,Where is my order right now
+Order Tracking,How do I track my shipment
+Order Tracking,I want to see my delivery progress
+Order Tracking,Has my package been shipped yet
+Order Tracking,How do I know when my order will arrive
+Order Tracking,Where can I find my tracking number
+Order Tracking,My order is late
+Order Tracking,How do I check the status of my purchase
+Order Tracking,I want to follow my package location
+Order Tracking,How do I confirm if my order was dispatched
+Customer Support,How do I contact support
+Customer Support,I need help from customer service
+Customer Support,Where can I reach the support team
+Customer Support,How do I talk to a representative
+Customer Support,I want to open a support ticket
+Customer Support,How do I report a problem
+Customer Support,I need technical assistance
+Customer Support,How do I get help with my issue
+Customer Support,Who can I contact for troubleshooting
+Customer Support,I want to speak with customer care
+Profile Settings,How do I update my personal info
+Profile Settings,I want to change my profile picture
+Profile Settings,Where can I edit my username
+Profile Settings,How do I modify my account settings
+Profile Settings,I want to update my phone number
+Profile Settings,How do I change my email
+Profile Settings,Where can I adjust my privacy settings
+Profile Settings,How do I update my preferences
+Profile Settings,I want to edit my profile details
+Profile Settings,How do I change my display name
+App Issues,The app is not loading
+App Issues,Why is the website so slow
+App Issues,I can’t log in to my account
+App Issues,The page keeps crashing
+App Issues,I’m getting an error message
+App Issues,The app freezes when I open it
+App Issues,Why can’t I access my dashboard
+App Issues,The website isn’t responding
+App Issues,Something is wrong with the app
+App Issues,I’m unable to use the platform
+Product Info,Where can I find product details
+Product Info,I want to know more about this item
+Product Info,What features does this product have
+Product Info,How do I compare two products
+Product Info,Is this item available in my region
+Product Info,What colors does this product come in
+Product Info,How do I check product specifications
+Product Info,Does this item support warranty
+Product Info,I want to see customer reviews
+Product Info,What is the price of this product
+Shipping,How long does shipping take
+Shipping,What are your delivery options
+Shipping,Do you offer express shipping
+Shipping,How much is the delivery fee
+Shipping,Do you ship internationally
+Shipping,When will my package arrive
+Shipping,What courier do you use
+Shipping,How do I change my delivery address
+Shipping,Can I schedule a delivery time
+Shipping,Why is my delivery delayed
+Returns,How do I return an item
+Returns,I want a refund for my purchase
+Returns,What is your return policy
+Returns,How long do refunds take
+Returns,Where do I send returned items
+Returns,How do I request a replacement
+Returns,My item arrived damaged
+Returns,Can I exchange my product
+Returns,How do I cancel my order
+Returns,I want to check my refund status
+Login Issues,I can’t sign in to my account.
+Login Issues,Why am I unable to log in
+Login Issues,The login page keeps rejecting my credentials
+Login Issues,I’m locked out of my account
+Login Issues,How do I regain access after too many attempts
+Login Issues,My login keeps failing
+Login Issues,I forgot my username
+Login Issues,The system won’t let me sign in
+Login Issues,I need help accessing my account
+Login Issues,Why does my login keep showing an error
+Email Issues,I’m not receiving verification emails
+Email Issues,Why are your emails going to my spam folder
+Email Issues,How do I confirm my email address
+Email Issues,I want to change the email linked to my account
+Email Issues,My confirmation email never arrived
+Email Issues,How do I resend the verification link
+Email Issues,I typed the wrong email during signup
+Email Issues,Why am I not getting notifications
+Email Issues,How do I update my contact email
+Email Issues,My email address is outdated
+Notifications,How do I turn off notifications
+Notifications,I want to disable email alerts
+Notifications,Why am I receiving too many notifications
+Notifications,How do I manage my notification settings
+Notifications,I want to enable push notifications
+Notifications,How do I stop promotional messages
+Notifications,I’m not getting app alerts
+Notifications,How do I mute certain notifications
+Notifications,I want to customize my alert preferences
+Notifications,Why did my notifications suddenly stop
+Security,How do I enable two-factor authentication
+Security,I want to improve my account security
+Security,How do I check recent login activity
+Security,Someone accessed my account without permission
+Security,How do I secure my personal data
+Security,I want to review my privacy settings
+Security,How do I block suspicious devices
+Security,My account was hacked
+Security,How do I change my security questions
+Security,I want to disable third‑party access
+Subscriptions,How do I upgrade my subscription
+Subscriptions,I want to switch to a different plan
+Subscriptions,How do I cancel my membership
+Subscriptions,Why was I charged for renewal
+Subscriptions,How do I pause my subscription
+Subscriptions,I want to downgrade my plan
+Subscriptions,How do I check my subscription status
+Subscriptions,What features come with the premium plan
+Subscriptions,How do I activate my free trial
+Subscriptions,Why did my subscription expire
+Installation,How do I install the app on my phone
+Installation,The app won’t download on my device
+Installation,Why is the installation failing
+Installation,How do I reinstall the application
+Installation,I can’t update the app
+Installation,The app is incompatible with my device
+Installation,How do I install the desktop version
+Installation,Why does the app keep uninstalling
+Installation,How do I fix installation errors
+Installation,The app won’t open after installing
+File Upload,How do I upload a document
+File Upload,My file won’t upload
+File Upload,Why is the upload stuck at 0%
+File Upload,What file formats are supported
+File Upload,How do I upload multiple files
+File Upload,My upload keeps failing
+File Upload,How do I reduce file size
+File Upload,Why does the system reject my file
+File Upload,How do I attach a photo
+File Upload,My upload is taking too long
+File Download,How do I download my data
+File Download,The file won’t download
+File Download,Why is the download speed so slow
+File Download,How do I save a copy of my report
+File Download,The download link isn’t working
+File Download,How do I export my information
+File Download,My download keeps stopping
+File Download,How do I download attachments
+File Download,Why is the file corrupted after downloading
+File Download,How do I access my downloaded files
+Search,How do I find specific content
+Search,The search bar isn’t working
+Search,I can’t locate the page I need
+Search,How do I filter search results
+Search,Why is the search returning irrelevant items
+Search,How do I browse categories
+Search,I want to find recently viewed items
+Search,How do I sort results by date
+Search,The search results are empty
+Search,How do I refine my search
+Performance,The app is running very slowly
+Performance,Why does the app keep freezing
+Performance,The website is lagging
+Performance,How do I fix performance issues
+Performance,The app keeps crashing
+Performance,Why is the platform unstable today
+Performance,The site is loading extremely slow
+Performance,How do I improve app performance
+Performance,The app becomes unresponsive after login
+Performance,Why does the page take so long to load
+Category,Sentence
+Account Access,Why can’t I open my account today
+Account Access,The system keeps logging me out
+Account Access,I’m suddenly locked out of my profile
+Account Access,My account access was restricted without warning
+Account Access,How do I unlock my account quickly
+Account Access,Why does my account keep signing out
+Account Access,I can’t stay logged in for more than a minute
+Account Access,My account was disabled and I don’t know why
+Account Access,How do I restore access to my profile
+Account Access,The system says my account is unavailable
+Payment Issues,My payment didn’t go through
+Payment Issues,Why was I charged twice
+Payment Issues,How do I reverse an accidental payment
+Payment Issues,My transaction keeps failing
+Payment Issues,Why is my card being rejected
+Payment Issues,How do I confirm if my payment succeeded
+Payment Issues,I was billed incorrectly
+Payment Issues,How do I update my payment method
+Payment Issues,My payment is stuck in processing
+Payment Issues,Why is my invoice missing
+Refunds,How do I request a refund
+Refunds,My refund hasn’t arrived yet
+Refunds,Why is my refund taking so long
+Refunds,How do I check my refund status
+Refunds,I want a refund for my last purchase
+Refunds,My refund was denied
+Refunds,How do I appeal a refund decision
+Refunds,Where can I see my refund history
+Refunds,Why was my refund amount reduced
+Refunds,How do I cancel a refund request
+Shipping,My package hasn’t arrived yet
+Shipping,Why is my shipment delayed
+Shipping,How do I track my delivery
+Shipping,My tracking number isn’t working
+Shipping,Where is my package right now
+Shipping,How do I change my delivery address
+Shipping,Why was my package returned to sender
+Shipping,How do I schedule a delivery time
+Shipping,My package was delivered to the wrong address
+Shipping,How do I contact the courier
+Technical Support,I need help fixing an error
+Technical Support,My screen keeps freezing
+Technical Support,The app crashes every time I open it
+Technical Support,Why is the system not responding
+Technical Support,How do I troubleshoot this issue
+Technical Support,My device isn’t connecting properly
+Technical Support,Why am I seeing this error code
+Technical Support,How do I reset the application
+Technical Support,The system keeps glitching
+Technical Support,My dashboard isn’t loading
+Verification,How do I verify my identity
+Verification,My verification failed
+Verification,Why can’t I complete verification
+Verification,How do I upload my ID
+Verification,My verification code isn’t working
+Verification,I didn’t receive my verification code
+Verification,How do I restart the verification process
+Verification,Why was my ID rejected
+Verification,How do I confirm my identity manually
+Verification,My verification is stuck on pending
+Messaging,I can’t send messages
+Messaging,Why are my messages not delivering
+Messaging,My chat history disappeared
+Messaging,How do I delete a message
+Messaging,How do I block someone
+Messaging,Why can’t I receive messages
+Messaging,My messages are out of order
+Messaging,How do I report a conversation
+Messaging,Why are my messages delayed
+Messaging,How do I mute a chat
+Notifications,I’m not receiving notifications
+Notifications,Why are my notifications delayed
+Notifications,How do I enable push notifications
+Notifications,How do I disable alerts
+Notifications,Why did my notifications stop working
+Notifications,How do I customize notification settings
+Notifications,Why am I getting duplicate notifications
+Notifications,How do I turn off email alerts
+Notifications,How do I fix notification errors
+Notifications,Why am I receiving irrelevant alerts
+Search,I can’t find what I’m looking for
+Search,Why is search not working
+Search,How do I filter search results
+Search,Why are my search results empty
+Search,How do I sort search results
+Search,Why is search showing unrelated items
+Search,How do I search by category
+Search,How do I find recent items
+Search,Why is search so slow
+Search,How do I refine my search
+Profile,I want to update my profile picture
+Profile,How do I change my username
+Profile,How do I edit my personal information
+Profile,Why can’t I update my profile
+Profile,How do I change my bio
+Profile,My profile changes aren’t saving
+Profile,How do I hide my profile
+Profile,How do I update my phone number
+Profile,How do I change my email address
+Profile,How do I adjust my privacy settings
+Preferences,How do I change my language settings
+Preferences,How do I update my region
+Preferences,Why can’t I change my preferences
+Preferences,How do I modify my app settings
+Preferences,How do I update my theme
+Preferences,How do I change my notification preferences
+Preferences,How do I reset my preferences
+Preferences,Why are my settings not saving
+Preferences,How do I enable dark mode
+Preferences,How do I change my time zone
+Account Security,How do I secure my account
+Account Security,Why did I get a suspicious login alert
+Account Security,How do I change my security settings
+Account Security,How do I enable two-factor authentication
+Account Security,My account was hacked
+Account Security,How do I review login history
+Account Security,How do I remove unknown devices
+Account Security,How do I reset my security questions
+Account Security,Why did my account get flagged
+Account Security,How do I disable third‑party access
+Connectivity,Why can’t I connect to the server
+Connectivity,My internet connection is fine but the app won’t load
+Connectivity,Why does the app disconnect randomly
+Connectivity,How do I fix connection issues
+Connectivity,Why is the connection unstable
+Connectivity,How do I reconnect to the server
+Connectivity,Why does the app say offline
+Connectivity,How do I fix network errors
+Connectivity,Why is the connection timing out
+Connectivity,How do I improve connection stability
+Updates,How do I update the app
+Updates,Why can’t I install the latest update
+Updates,Why is the update stuck
+Updates,How do I check for updates
+Updates,Why did the update fail
+Updates,How do I roll back an update
+Updates,Why is the update taking so long
+Updates,How do I enable automatic updates
+Updates,Why did the update break my app
+Updates,How do I reinstall the latest version
+Files,How do I upload a file
+Files,Why won’t my file upload
+Files,How do I download a file
+Files,Why is my file corrupted
+Files,How do I compress a file
+Files,Why is my file too large
+Files,How do I attach a document
+Files,Why is my upload stuck
+Files,How do I export my data
+Files,Why can’t I open my downloaded file
+Orders,How do I cancel my order
+Orders,Why is my order delayed
+Orders,How do I modify my order
+Orders,Why was my order rejected
+Orders,How do I reorder a previous item
+Orders,Why is my order stuck in processing
+Orders,How do I confirm my order
+Orders,Why is my order incomplete
+Orders,How do I check my order details
+Orders,Why was my order duplicated
+Support,I need help with an issue
+Support,How do I contact support
+Support,Why hasn’t support responded
+Support,How do I submit a support ticket
+Support,How do I escalate an issue
+Support,Why was my ticket closed
+Support,How do I reopen a support case
+Support,How do I chat with support
+Support,Why is support unavailable
+Support,How do I request technical help
+General Help,How do I use this feature
+General Help,Where can I find instructions
+General Help,How do I get started
+General Help,Why is this feature not working
+General Help,How do I learn more about this tool
+General Help,Where can I find tutorials
+General Help,How do I navigate the app
+General Help,Why is this option missing
+General Help,How do I access advanced settings
+General Help,How do I understand this error
